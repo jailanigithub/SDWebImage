@@ -6,5 +6,5 @@ Pod::Spec.new do |s|
   s.author       = { "Jailani" => "jailaninice@gmail.com" }
   s.source       = { :git => "https://github.com/jailanigithub/SDWebImage.git"}
   s.source_files = 'Source'
-  s.requires_arc = false
+  s.requires_arc = true
 end
